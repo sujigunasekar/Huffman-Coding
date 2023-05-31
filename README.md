@@ -35,8 +35,6 @@ class NodeTree(object):
         self.right=right
     def children(self):
         return (self.left,self.right)
-    def nodes (self):
-        return (self.left,self.right)
 
 # Create tree nodes
 def huffman_code_tree (node, left=True, binString=''):
