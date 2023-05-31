@@ -25,8 +25,7 @@ Print the characters and its huffmancode.
 
  
 ## Program:
-Developed by : Suji.G
-Register number : 212222230152
+
 ```Python
 # Get the input String
 string = '212222230152_suji'
